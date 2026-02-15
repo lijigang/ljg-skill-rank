@@ -1,0 +1,18 @@
+{
+  "name": "ljg-rank",
+  "description": "Rank reduction engine for any domain",
+  "owner": {
+    "name": "lijigang"
+  },
+  "metadata": {
+    "description": "A Claude Code skill that performs rank reduction on any domain — starting from phenomena, extracting dimensions, discovering constraints, and finding the irreducible independent generators (rank) with generation testing verification. Outputs structured org-mode analysis with ASCII topology.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ljg-rank",
+      "source": "./",
+      "description": "Use /ljg-rank <domain> to find the rank (irreducible independent generators) of any domain. Supports Chinese and English input."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "ljg-rank",
+  "description": "Rank reduction engine — find the irreducible independent generators of any domain through phenomena, dimensions, constraints, and generation testing.",
+  "author": {
+    "name": "lijigang"
+  }
+}
